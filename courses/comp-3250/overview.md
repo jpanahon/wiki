@@ -15,7 +15,7 @@ This course covers techniques for quantitative and qualitative data analysis and
 
 ## Typical Course Offering
 
-There is currently no information about the typical course offering.  
+COMP-3250 is typically offered in the Winter semester.
 
 ## Is a Textbook Required?
 
@@ -25,3 +25,6 @@ There is currently no information about the Textbook requirement.
 
 COMP-2547 (or COMP-2540) and STAT-2910 are the prerequisites for this class.
 
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

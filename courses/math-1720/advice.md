@@ -1,8 +1,8 @@
 ---
 id: advice
-title: How to be Successful in MATH-1720
-sidebar_label: How to be Successful in MATH-1720
-slug: /MATH-1720/advice
+title: Advice for MATH-1720/1760
+sidebar_label: Advice for MATH-1720/1760
+slug: /math-1720/advice
 ---
 
 MATH-1720 (or its equivalent, MATH-1760), is one of the few math courses that first-year CS students must take. Most of the material are reviews from high school. In Ontario, the following classes addresses these materials: MHF4U - Advanced Functions and MCV4U - Calculus and Vectors. However, you should still practice on building good habits to prepare for classes like MATH-1730 (Integral Calculus).
@@ -37,10 +37,10 @@ The University provides a multitide of support for students who need the extra h
 
 Many text and video resources are on the Internet, so use these to your advantages to help you understand difficult concepts and practice for exams.
 
--   [The Organic Chemistry Tutor](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
--   [Paul's Online Math Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
--   [Calculus Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/single-variable-calculus/)
--   [Khan Academy](https://www.khanacademy.org/math/differential-calculus)
+- [The Organic Chemistry Tutor](https://www.youtube.com/watch?v=GiCojsAWRj0&list=PL0o_zxa4K1BWYThyV4T2Allw6zY0jEumv)
+- [Paul's Online Math Notes](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+- [Calculus Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/single-variable-calculus/)
+- [Khan Academy](https://www.khanacademy.org/math/differential-calculus)
 
 ### Don't Leave Questions Blank
 

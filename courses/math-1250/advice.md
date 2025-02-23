@@ -1,8 +1,8 @@
 ---
 id: advice
-title: How to be Successful in MATH-1250
-sidebar_label: How to be Successful in MATH-1250
-slug: /MATH-1250/advice
+title: Advice for MATH-1250/1260
+sidebar_label: Advice for MATH-1250/1260
+slug: /math-1250/advice
 ---
 
 MATH-1250 (or its equivalent, MATH-1260), is one of the few math courses that first-year CS students must take. Some of the material are reviews from high school. In Ontario, MCV4U - Calculus and Vectors addresses concepts like vector spaces, dot products, cross products, etc. However, you should still practice on building good habits and learning the materials, especially if you want to go into fields like artificial intelligence, which can be math-heavy.
@@ -37,10 +37,10 @@ The University provides a multitide of support for students who need the extra h
 
 Many text and video resources are on the Internet, so use these to your advantages to help you understand difficult concepts and practice for exams.
 
--   [Gilbert Strang Linear Algebra Lectures](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PLE7DDD91010BC51F8&index=2)
--   [Gilbert Strang Linear Algebra Recitations](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PLD022819BC6B9B21B)
--   [Linear Algebra Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/linear-algebra/)
--   [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [Gilbert Strang Linear Algebra Lectures](https://www.youtube.com/watch?v=J7DzL2_Na80&list=PLE7DDD91010BC51F8&index=2)
+- [Gilbert Strang Linear Algebra Recitations](https://www.youtube.com/watch?v=uNKDw46_Ev4&list=PLD022819BC6B9B21B)
+- [Linear Algebra Tutorials](https://math.hmc.edu/calculus/hmc-mathematics-calculus-online-tutorials/linear-algebra/)
+- [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 
 ### Don't Leave Questions Blank
 

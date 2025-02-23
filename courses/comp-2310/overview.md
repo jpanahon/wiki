@@ -24,3 +24,7 @@ Yes, a textbook is absolutely required to pass this class.
 ## Prerequisites
 
 COMP-1000 and MATH-1020 are the prerequisites for this class.
+
+## Syllabus
+
+- [Fall 2024](../../resources/syllabus/COMP-2310-01%20F24.pdf)

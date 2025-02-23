@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 There is no UWindsor prerequisite for this class.
 
+## Syllabus
+
+- [Fall 2024](../../resources/syllabus/COMP-4990A-01%20F24.pdf)

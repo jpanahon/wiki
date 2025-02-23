@@ -20,11 +20,11 @@ assignees: ""
 
 <!-- Check ONE box, [x], to select where your article should be categorized-->
 
--   [ ] Course information
--   [ ] Careers
--   [ ] Academics
--   [ ] Resources
--   [ ] Computer Science Society
+- [ ] Courses
+- [ ] Careers
+- [ ] Academics
+- [ ] Resources
+- [ ] Computer Science Society
 
 ### Contributing Guide
 

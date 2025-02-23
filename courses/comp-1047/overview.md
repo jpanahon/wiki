@@ -25,3 +25,7 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 There is no UWindsor prerequisite for this class.
 
+## Syllabus
+
+- [Fall 2024 Section 30](../../resources/syllabus/COMP-1047-30%20F24.pdf)
+- [Fall 2024 Section 91](../../resources/syllabus/COMP-1047-91%20F24.pdf)

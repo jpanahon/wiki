@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-2540 and MATH-1250 are the prerequisites for this class.
 
+## Syllabus
+
+- [Winter 2024](../../resources/syllabus/COMP-3520-01%20W24.pdf)

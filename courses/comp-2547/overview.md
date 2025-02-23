@@ -15,7 +15,7 @@ This course provides an introduction to the programming and analysis of both lin
 
 ## Typical Course Offering
 
-There is currently no information about the typical course offering.  
+COMP-2547 is typically offered in the Fall semester.
 
 ## Is a Textbook Required?
 
@@ -25,3 +25,6 @@ There is currently no information about the Textbook requirement.
 
 COMP-1000 and COMP-2087 are the prerequisites for this class.
 
+## Syllabus
+
+- [Fall 2024](../../resources/syllabus/COMP-2547-01%20F24.pdf)

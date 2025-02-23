@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-2540, COMP-2120, COMP-2560, and COMP-2650 or COMP-2660 are the prerequisites for this class.
 
+## Syllabus
+
+- [Winter 2024](../../resources/syllabus/COMP-3300-01%20W24.pdf)

@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3150 and COMP-3220 are the prerequisites for this class.
 
+## Syllabus
+
+- [Winter 2024](../../resources/syllabus/COMP-4200-01%20W24.pdf)

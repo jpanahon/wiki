@@ -15,7 +15,7 @@ This course will acquaint students with the basic concepts and application of re
 
 ## Typical Course Offering
 
-There is currently no information about the typical course offering.  
+There is currently no information about the typical course offering.
 
 ## Is a Textbook Required?
 
@@ -25,3 +25,6 @@ There is currently no information about the Textbook requirement.
 
 COMP-2547 is the prerequisite for this class.
 
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

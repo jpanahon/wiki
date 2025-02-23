@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-1047 and COMP-2057 are the prerequisites for this class.
 
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

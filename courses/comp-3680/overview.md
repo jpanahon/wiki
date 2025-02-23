@@ -25,3 +25,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 COMP-3300 and COMP-3670 are the prerequisites for this class.
 
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

@@ -5,6 +5,10 @@ sidebar_label: MATH-1720
 slug: /math-1720/overview
 ---
 
+:::note
+MATH-1720 and MATH-1760 count for the same credit. You can take either of them for degree requirements.
+:::
+
 ## Course Title
 
 The title for MATH-1720 is "Differential Calculus".
@@ -25,3 +29,6 @@ No, while there is a textbook listed and you may find it helpful, it is not requ
 
 There is no UWindsor prerequisite for this class.
 
+## Syllabus
+
+Sorry, we don't have a syllabus for this course yet.

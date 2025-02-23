@@ -6,7 +6,16 @@
             "fall": true,
             "winter": true,
             "summer": true,
-            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS", "BIT"],
+            "required": [
+                "CSG",
+                "CSH",
+                "CSHAC",
+                "CIS",
+                "CSSE",
+                "BACS",
+                "MCS",
+                "BIT"
+            ],
             "prerequisites": []
         },
         {
@@ -66,12 +75,11 @@
         {
             "course code": "COMP-2087",
             "course name": "Programming for Beginners II",
-            "fall": false,
+            "fall": true,
             "winter": true,
             "summer": false,
             "required": ["BIT"],
             "prerequisites": ["COMP-2067"]
-
         },
         {
             "course code": "COMP-2097",
@@ -121,7 +129,7 @@
         {
             "course code": "COMP-2547",
             "course name": "Applied Algorithms and Data Structures",
-            "fall": false,
+            "fall": true,
             "winter": false,
             "summer": false,
             "required": ["BIT"],
@@ -170,7 +178,10 @@
             "winter": false,
             "summer": false,
             "required": [" "],
-            "prerequisites": ["COMP-1000 or MATH-1720", "COMP-1410 or COMP-2087"]
+            "prerequisites": [
+                "COMP-1000 or MATH-1720",
+                "COMP-1410 or COMP-2087"
+            ]
         },
         {
             "course code": "COMP-2800",
@@ -197,7 +208,7 @@
             "winter": true,
             "summer": true,
             "required": ["BIT"],
-            "prerequisites": ["COMP-1047", "COMP-2057"]
+            "prerequisites": ["COMP-2057 or COMP-2540"]
         },
         {
             "course code": "COMP-3067",
@@ -248,7 +259,7 @@
             "course code": "COMP-3250",
             "course name": "Data Analytics I",
             "fall": false,
-            "winter": false,
+            "winter": true,
             "summer": false,
             "required": ["BIT"],
             "prerequisites": ["COMP-2547 or COMP-2540", "STAT-2910"]
@@ -518,8 +529,46 @@
             "prerequisites": []
         },
         {
+            "course code": "MATH-1260",
+            "course name": "Vectors and Linear Algebra",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "prerequisites": ["Ontario Grade 12 Advanced Functions (MHF4U)"]
+        },
+        {
+            "course code": "MATH-1270",
+            "course name": "Linear Algebra (Engineering)",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": [
+                "MATH-1280 or both Ontario Grade 12 Advanced Functions (MHF4U) and Calculus and Vectors (MCV4U)"
+            ]
+        },
+        {
+            "course code": "MATH-1280",
+            "course name": "Access to Linear Algebra",
+            "fall": false,
+            "winter": true,
+            "summer": false,
+            "required": [],
+            "prerequisites": []
+        },
+        {
             "course code": "MATH-1720",
             "course name": "Differential Calculus",
+            "fall": true,
+            "winter": true,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "MCS"],
+            "prerequisites": []
+        },
+        {
+            "course code": "MATH-1760",
+            "course name": "Functions and Differential Calculus",
             "fall": true,
             "winter": true,
             "summer": false,
@@ -556,6 +605,15 @@
             "summer": true,
             "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "BIT"],
             "prerequisites": []
+        },
+        {
+            "course code": "STAT-2920",
+            "course name": "Introduction to Probability",
+            "fall": true,
+            "winter": false,
+            "summer": false,
+            "required": ["CSG", "CSH", "CSHAC", "CIS", "CSSE", "BACS", "BIT"],
+            "prerequisites": ["MATH-1730"]
         }
     ]
 }
